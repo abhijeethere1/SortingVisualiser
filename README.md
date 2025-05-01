@@ -1,0 +1,1 @@
+Break down complex sorting algorithms (e.g., Bubble Sort,Insertion Sort, Selection Sort, Quick Sort, Merge Sort) into visual steps, making it easier for audiences to grasp the underlying logic and mechanics.
